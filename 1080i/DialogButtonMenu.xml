@@ -2,11 +2,6 @@
 <window>
 	<defaultcontrol>9000</defaultcontrol>
 	<include>DialogOpenCloseAnimation</include>
-	
-	
-	
-	
-	
 	<controls>
 		<control type="grouplist" id="9000">
 			<centerleft>50%</centerleft>
